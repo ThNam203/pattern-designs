@@ -1,6 +1,6 @@
 package AbstractFactory;
 
-public class FactoryMaker {
+public class CarFactoryMaker {
     public static CarFactory getFactory(CarTypes types) {
         switch (types) {
             case NormalCar -> {

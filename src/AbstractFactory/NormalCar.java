@@ -7,16 +7,7 @@ public class NormalCar extends Car {
     }
 
     @Override
-    public void honk() {
-        System.out.println("I'm honking as a normal car");
-    }
-
-    @Override
-    public void getName() {
-        System.out.println("I'm a normal car");
-    }
-
-    public static NormalCar getCar() {
-        return new NormalCar();
+    public String getName() {
+        return CarNames.NORMAL_CAR;
     }
 }
