@@ -1,7 +1,6 @@
 package BuilderPattern;
 
 public class Server {
-
     // defaults
     private ServerEnvironment environment = ServerEnvironment.DEVELOPMENT;
     private int memory = 4;
