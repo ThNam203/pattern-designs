@@ -9,6 +9,7 @@ public class CharacterStats implements CharacterStatsPrototype {
         this.atkDamage = atkDamage;
     }
 
+    // prototype constructor
     public CharacterStats(CharacterStats prototype) {
         this.health = prototype.health;
         this.atkDamage = prototype.atkDamage;

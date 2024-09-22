@@ -9,6 +9,7 @@ public class MageCharacter extends Character {
         this.characterStats = new CharacterStats(health, atkDamage);
     }
 
+    // prototype constructor
     public MageCharacter(MageCharacter prototype) {
         this.name = prototype.name;
         this.type = prototype.type;

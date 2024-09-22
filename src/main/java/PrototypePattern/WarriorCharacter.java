@@ -6,6 +6,7 @@ public class WarriorCharacter extends Character {
         this.characterStats = new CharacterStats(health, atkDamage);
     }
 
+    // prototype constructor
     public WarriorCharacter(WarriorCharacter prototype) {
         this.name = prototype.name;
         this.characterStats = prototype.characterStats.clone();
