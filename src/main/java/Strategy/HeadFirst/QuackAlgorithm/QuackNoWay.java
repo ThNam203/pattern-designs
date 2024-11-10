@@ -1,4 +1,4 @@
-package Strategy.QuackAlgorithm;
+package Strategy.HeadFirst.QuackAlgorithm;
 
 public class QuackNoWay implements Quack {
     @Override

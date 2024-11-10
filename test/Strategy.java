@@ -1,10 +1,10 @@
-import Strategy.FlyAlgorithm.FlyHigh;
-import Strategy.FlyAlgorithm.FlyNoWay;
-import Strategy.GrassDuck;
-import Strategy.QuackAlgorithm.QuackLoud;
-import Strategy.QuackAlgorithm.QuackNoWay;
-import Strategy.SkyDuck;
-import Strategy.WoodenDuck;
+import Strategy.HeadFirst.FlyAlgorithm.FlyHigh;
+import Strategy.HeadFirst.FlyAlgorithm.FlyNoWay;
+import Strategy.HeadFirst.GrassDuck;
+import Strategy.HeadFirst.QuackAlgorithm.QuackLoud;
+import Strategy.HeadFirst.QuackAlgorithm.QuackNoWay;
+import Strategy.HeadFirst.SkyDuck;
+import Strategy.HeadFirst.WoodenDuck;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

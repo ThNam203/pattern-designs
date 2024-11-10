@@ -1,7 +1,7 @@
-package Strategy;
+package Strategy.HeadFirst;
 
-import Strategy.FlyAlgorithm.FlyHigh;
-import Strategy.QuackAlgorithm.QuackLoud;
+import Strategy.HeadFirst.FlyAlgorithm.FlyHigh;
+import Strategy.HeadFirst.QuackAlgorithm.QuackLoud;
 
 public class SkyDuck extends Duck {
     public SkyDuck() {

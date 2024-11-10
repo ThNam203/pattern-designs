@@ -1,4 +1,4 @@
-package Strategy.QuackAlgorithm;
+package Strategy.HeadFirst.QuackAlgorithm;
 
 public class QuackLoud implements Quack {
     @Override

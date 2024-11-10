@@ -1,7 +1,7 @@
-package Strategy;
+package Strategy.HeadFirst;
 
-import Strategy.FlyAlgorithm.FlyNoWay;
-import Strategy.QuackAlgorithm.QuackNoWay;
+import Strategy.HeadFirst.FlyAlgorithm.FlyNoWay;
+import Strategy.HeadFirst.QuackAlgorithm.QuackNoWay;
 
 public class WoodenDuck extends Duck {
     public WoodenDuck() {

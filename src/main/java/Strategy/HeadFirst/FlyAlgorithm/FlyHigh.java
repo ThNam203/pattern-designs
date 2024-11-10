@@ -1,4 +1,4 @@
-package Strategy.FlyAlgorithm;
+package Strategy.HeadFirst.FlyAlgorithm;
 
 public class FlyHigh implements Fly {
     @Override

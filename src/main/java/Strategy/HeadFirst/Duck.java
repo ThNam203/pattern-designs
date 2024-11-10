@@ -1,9 +1,9 @@
-package Strategy;
+package Strategy.HeadFirst;
 
-import Strategy.FlyAlgorithm.Fly;
-import Strategy.FlyAlgorithm.FlyNoWay;
-import Strategy.QuackAlgorithm.Quack;
-import Strategy.QuackAlgorithm.QuackNoWay;
+import Strategy.HeadFirst.FlyAlgorithm.Fly;
+import Strategy.HeadFirst.FlyAlgorithm.FlyNoWay;
+import Strategy.HeadFirst.QuackAlgorithm.Quack;
+import Strategy.HeadFirst.QuackAlgorithm.QuackNoWay;
 
 public abstract class Duck {
    public String name;

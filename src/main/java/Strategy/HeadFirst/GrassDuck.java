@@ -1,7 +1,7 @@
-package Strategy;
+package Strategy.HeadFirst;
 
-import Strategy.FlyAlgorithm.FlyNoWay;
-import Strategy.QuackAlgorithm.QuackLoud;
+import Strategy.HeadFirst.FlyAlgorithm.FlyNoWay;
+import Strategy.HeadFirst.QuackAlgorithm.QuackLoud;
 
 public class GrassDuck extends Duck {
     public GrassDuck() {
