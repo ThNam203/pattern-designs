@@ -1,10 +1,9 @@
 import static org.hamcrest.CoreMatchers.instanceOf;
 import static org.hamcrest.MatcherAssert.assertThat;
-import static org.junit.jupiter.api.Assertions.*;
 
-import Prototype.Character;
-import Prototype.MageCharacter;
-import Prototype.WarriorCharacter;
+import Character;
+import MageCharacter;
+import WarriorCharacter;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

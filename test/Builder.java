@@ -1,7 +1,7 @@
-import Builder.Server;
-import Builder.ServerBuilder;
-import Builder.ServerDirector;
-import Builder.ServerEnvironment;
+import Server;
+import ServerBuilder;
+import ServerDirector;
+import ServerEnvironment;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.BeforeEach;
 import org.mockito.Mockito;

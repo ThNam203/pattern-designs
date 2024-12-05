@@ -1,5 +1,5 @@
-import Singleton.MyWallet;
-import Singleton.SingletonObject;
+import MyWallet;
+import SingletonObject;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

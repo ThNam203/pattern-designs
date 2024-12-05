@@ -1,5 +1,5 @@
-import Observer.TV;
-import Observer.WeatherData;
+import TV;
+import WeatherData;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
